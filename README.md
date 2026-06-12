@@ -93,6 +93,6 @@ Repository Structure
 
 Author
 
-Mehak
+Pratyush Suri
 
-AI-Powered Fraud Detection Workflow using n8n for real-time transaction risk scoring, Google Sheets automation, Gmail alerts, and Power BI analytics.
+AI-Powered Fraud Detection Workflow using n8n for real-time transaction risk scoring, Google Sheets automation, Gmail alerts.
