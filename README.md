@@ -63,7 +63,7 @@ Repository Structure
 ---
 
 ## 2. Google Sheets Integration
-![Google Sheets Integration](googlesheet.jpeg)
+![Google Sheets Integration](googlesheet.png)
 
 ---
 
@@ -85,7 +85,7 @@ Repository Structure
 ---
 
 ## 7. Loan Approval Workflow
-![Loan Approval Workflow](loanapplication.jpeg)
+![Loan Approval Workflow](Loanapplication.jpeg)
 
 ---
 
